@@ -1,20 +1,49 @@
 ![Image](./f2.png)
 
-# console.debug("Hello World!");
-<h3 >👋 Hello! I am Maxim (aka DequElite)</h1>
-<p >FullStack Web Developer. I love clean architecture and clean code (SOLID, MVC, Microservices) I try new stacks, learn new things quickly, and find solutions quickly.</p>
+# 👋 Hello, I'm Maxim — aka DequElite
 
+**Software & AI Engineer | Full-Stack Developer**
 
-## Tech stack
+I build software systems, explore engineering solutions, and turn ideas into working products. I enjoy working with backend architecture, web technologies, automation, and AI — especially when a problem requires more than just writing code.
 
-### My main stack
-**Backend** - Node.js, Express.js, TypeScript, Nest.js, PostgreSQL, PrismaORM, Java, Spring Boot (studying)
-**Frontend** - React.js, Next.js, SCSS, TypeScript
+I focus on understanding how systems work, making thoughtful technical decisions, and building solutions that are maintainable, practical, and scalable.
 
-### Other techs
-**Backend** - Redis, Hibernate, Kafka, ElasticSearch, gRPC, GraphQL, Argon2, MongoDB, Amazon S3
-**DevOps** - K8s, Docker, Linux, Nginx
-**Frontend** - Zod, RHF, TailwindCSS, EsLint
+---
 
-## Contact
-[Telegram](t.me/DequElite)
+## ⚙️ Tech Stack
+
+### Main Technologies
+**Backend:** Java, Spring Boot, Node.js, Express.js, NestJS, TypeScript  
+**Frontend:** React, Next.js, TypeScript, SCSS  
+**Databases:** PostgreSQL, MongoDB  
+**ORMs:** Prisma, Hibernate
+
+### Additional Technologies
+**Backend & Infrastructure:** Redis, Kafka, Elasticsearch, gRPC, GraphQL, REST API, Argon2, Amazon S3  
+**Frontend & Tooling:** Tailwind CSS, Zod, React Hook Form, ESLint  
+**DevOps:** Docker, Kubernetes, Linux, Nginx
+
+---
+
+## 🧠 Engineering Interests
+
+- Backend architecture and system design
+- AI-powered software and automation
+- Software testing and intelligent test systems
+- Performance, concurrency, and asynchronous processing
+- Database design and data management
+- Exploring technologies and finding the right tools for the problem
+
+---
+
+## 🚀 Projects & Experiments
+
+I enjoy building projects that challenge me to think beyond implementation — from designing architecture and exploring technical approaches to solving problems that existing tools may not fully address.
+
+I'm currently focused on **Auzonix** — an AI-powered web testing system built around the concept of Artificial Users, exploring a different approach to website testing. (Open Source will be later)
+
+---
+
+## 📫 Contact
+
+- Telegram: [@DequElite](https://t.me/DequElite)
